@@ -4,3 +4,7 @@ my_other_data <- 2
 third_var <- 3
 my_other_data <- "Absolut"
 typeof(my_other_data)
+
+changychange <- "x"
+changychange
+2+2
